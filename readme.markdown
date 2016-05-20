@@ -1,6 +1,6 @@
 # remembyte - experiments in human-memorable byte arrays
 
-DISCLAIMER: Much of this is aspirational, all code is alpha at the moment, and until there is a real release, the code might not even build.
+DISCLAIMER: Much of this is aspirational; all code is alpha at the moment, and until there is a real release the code might not even build.
 
 The problem: it's really hard to remember `16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48` (which happens to represent GitHub's RSA SSH host key fingerprint, at the time of this writing). 
 
